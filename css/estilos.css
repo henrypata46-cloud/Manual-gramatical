@@ -1,0 +1,135 @@
+header{
+        background-color: ;
+        text-align:center;
+        
+         }
+
+  .logo{
+         width: 85%;
+         max-width: 400px;
+         margin: 0 auto;
+          }
+
+  .logo img{
+        Display: block;
+	width: 100%;
+	height; auto;
+	margin: 0 auto;
+         }   
+
+
+  nav {
+     width:100%;
+     text-align	:center;
+     background-color: ;
+     margin: 0;
+   }
+nav a{
+       display: inline-block;
+       margin: 5px;
+       padding: 12px;
+       background-color:orange;
+       color:black;
+       font-family:Times new roman, sans-serif;
+       font-size: 1.4em;
+       text-decoration: none;
+       border-radius: 20px;
+       transition: background-color 0.3s, color 0.3s;
+        }
+nav a:hover{
+          color:276CF5;
+          background-color:#27DDF5;
+           }  
+
+
+   section {
+      background-color:  #;
+      color: black;
+      width: 70%;
+      max-width: 900px;
+      margin: 10px auto; 
+      font-size: 0.9em;
+      padding: 20px;
+      border-radius: 10px;
+      text-align: justify;
+      font-family: Bahnschrift SemiBold, sans-serif;
+      text-color: ;
+
+   }
+
+
+
+section h1{
+
+		text-align: center;
+		color: black;
+		font family: Roboto;		
+				}
+
+section h2{
+
+		text-align: Left;
+		color: black;
+				}
+
+section p{
+
+		text-align: center;
+		color: black;
+				}
+
+
+
+.centrar { 
+    text-align: center;
+		}
+.centrar img {
+width: 100%;
+max-width: 600px;
+height: auto;
+		}
+.video {
+width: 100%;
+max-width: 300px;
+aspect-ratio: 9 / 9,
+border: none;
+		}
+
+ 
+    body {
+  margin: 0;
+  background-color: #E0E0E0;
+  background-attachment: fixed;
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0 0;
+}
+
+footer {
+		background-color: #000000;
+		color: white;
+		text-align: center;
+		padding: 30px;
+		font-family: Roboto; Times New Roman;	
+}
+
+
+@media (max-width: 600px) {
+nav a {
+display: block;
+width: 90%;
+margin: 10px auto; 
+		}
+section {
+width: 85%;
+font.size 18 px;
+text-align: left;
+color: black;
+{
+
+
+
+		.logo h1 {
+		font-size: 32px;
+		}			
